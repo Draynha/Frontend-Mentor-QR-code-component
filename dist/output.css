@@ -466,9 +466,8 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
-.mx-6 {
-  margin-left: 1.5rem;
-  margin-right: 1.5rem;
+.m-6 {
+  margin: 1.5rem;
 }
 .my-auto {
   margin-top: auto;
